@@ -41,3 +41,11 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.dll
+jule_kata_20151007/bin/*
+jule_kata_20151007/obj/*
+jule_kata_20151007_tests/bin/*
+jule_kata_20151007_tests/obj/*
+*.pdb
+*.cache
+jule_kata_20151007/Class1.cs
