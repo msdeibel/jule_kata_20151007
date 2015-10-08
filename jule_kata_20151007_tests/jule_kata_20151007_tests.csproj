@@ -50,9 +50,12 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="DieTests.cs" />
+    <Compile Include="GameMasterTests.cs" />
     <Compile Include="MarkerStackTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="PlayerTests.cs" />
+    <Compile Include="RollResultTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\jule_kata_20151007\jule_kata_20151007.csproj">
